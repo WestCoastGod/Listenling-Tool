@@ -71,7 +71,7 @@ Manage Listenling in one place.
 
 For lyrics lookup, Listenling sends the song’s title, artist, album, and duration to LRCLIB. Audio analysis happens locally on your Mac.
 
-Read the [Privacy Policy](PRIVACY_POLICY_URL).
+Read the [Privacy Policy](https://github.com/WestCoastGod/Listenling-Tool/blob/main/Listenling-Privacy-Policy.md).
 
 ## Support
 
