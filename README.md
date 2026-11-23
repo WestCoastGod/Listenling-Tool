@@ -1,7 +1,7 @@
 # Listenling
 
 <img width="70" height="70" alt="AppIcon-macOS-Default-1024@1x" src="https://github.com/user-attachments/assets/40184344-dc5a-4117-8e6d-f3b42c83b936" />
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 <img width="70" height="70" alt="AppIcon-macOS-Dark-1024@1x" src="https://github.com/user-attachments/assets/c3eaf70f-8fcd-4d2b-b8a7-2fb508f0fa78" />
 
 
@@ -13,6 +13,7 @@ Listenling brings Spotify, Apple Music, and general music and audio playback to 
 ## Download
 
 Coming soon to the Mac App Store.
+Download at the same repository release.
 
 ## Screenshots
 
