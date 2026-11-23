@@ -75,4 +75,4 @@ Read the [Privacy Policy](PRIVACY_POLICY_URL).
 
 ## Support
 
-For help or feedback, contact [SUPPORT_EMAIL].
+For help or feedback, contact [cx94652481@gmail.com].
