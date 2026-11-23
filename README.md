@@ -18,7 +18,8 @@ Download at the same repository release.
 ### Your music. Your way.
 Notch, menu bar, or mini player.
 
-<img width="2000" alt="Listenling-vAppStore" src="https://github.com/user-attachments/assets/2af33c44-9dc0-422a-9c77-7d66ea157aaa" />
+<img width="800" alt="Listenling-vAppStore-All-plain" src="https://github.com/user-attachments/assets/7d489a35-5915-4fec-806f-05540607b82e" />
+
 
 ### A little music in your notch
 See what’s playing at a glance.
