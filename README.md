@@ -1,9 +1,6 @@
 # Listenling
 
-<img width="70" height="70" alt="AppIcon-macOS-Default-1024@1x" src="https://github.com/user-attachments/assets/40184344-dc5a-4117-8e6d-f3b42c83b936" />
-&nbsp;
-<img width="70" height="70" alt="AppIcon-macOS-Dark-1024@1x" src="https://github.com/user-attachments/assets/c3eaf70f-8fcd-4d2b-b8a7-2fb508f0fa78" />
-
+<img width="300" alt="Listenling Icon Grid" src="https://github.com/user-attachments/assets/852b0bc8-7c70-4362-be2e-8470c222fa74" />
 
 ### Your music. Your way.
 
