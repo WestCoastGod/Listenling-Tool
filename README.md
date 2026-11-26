@@ -11,6 +11,8 @@ Listenling brings Spotify, Apple Music, and general music and audio playback to 
 
 Coming soon to the Mac App Store.
 Download at the same repository release.
+[Click here to download](https://github.com/WestCoastGod/Listenling-Tool/releases/download/v1.3.0/Listenling.dmg)
+
 
 ## Screenshots
 
